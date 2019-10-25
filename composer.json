@@ -1,0 +1,14 @@
+{
+    "name": "apple/php-soap-client",
+    "description": "webservice for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bin",
+            "email": "854767470@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
